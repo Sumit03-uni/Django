@@ -1,0 +1,6 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "python.analysis.extraPaths": [
+        "./mysite"
+    ]
+}
